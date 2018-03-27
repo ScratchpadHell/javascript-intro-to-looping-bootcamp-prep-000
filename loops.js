@@ -13,4 +13,4 @@ function whileLoop(n) {
   while (timer > 0) {
     console.log(--timer)
   }
-} return timer 
+}
