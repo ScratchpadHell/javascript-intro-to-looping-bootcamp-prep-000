@@ -10,7 +10,7 @@ function forLoop(array) {
 }
 function whileLoop(n) {
   let timer = n;
-  while (whileLoop > 0) {
+  while (timer > 0) {
     console.log(--timer)
   }
-} return ('done');
+}
